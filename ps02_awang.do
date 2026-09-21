@@ -50,7 +50,7 @@ tabulate pos1 highsalary, row
 * T-test only among players earning over $600k
 ttest salaryk if highsalary == 1, by(pos1)
 
-* Statistically significant difference between average salary of
+* Difference between average salary of
 * first basemen verus all other players (only looking at players
 * making over $600k) is still statistically significant, with a 
 * p-value of 0.0289.
