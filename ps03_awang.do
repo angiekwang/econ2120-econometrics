@@ -1,7 +1,7 @@
 *
 *
 *
-*   ECON2101: Econometrics
+*   ECON2120: Econometrics
 *   Problem Set 03
 *   Angie Wang
 *   24 September 2026
