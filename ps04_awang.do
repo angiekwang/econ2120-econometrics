@@ -10,10 +10,6 @@
 *
 *
 
-clear all
-
-cd "/Users/angiewang/Library/CloudStorage/OneDrive-Personal/Classes/fall2026/econ2120/wooldridge_data"
-
 **** PROBLEM 1: Wage Data ****
 use "WAGE2.dta", clear
 
